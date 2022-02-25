@@ -22,7 +22,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 <img src="https://imgur.com/0kxbUUX.gif" width=250><br>
 
 ### Notes
-. I faced some challenges while making this application. I wrote the entire code and my application was running but nothing was popping up on the filxter screen. When I debugged, I found out that my activity_main.xml file had an issue. In this file, I did not set the android layout_width and andorid layout_height to "match parent" instead they were set to 0dps. Once, I corrected this issue my application ran fine.
+I faced some challenges while making this application. I wrote the entire code and my application was running but nothing was popping up on the filxter screen. When I debugged, I found out that my activity_main.xml file had an issue. In this file, I did not set the android layout_width and andorid layout_height to "match parent" instead they were set to 0dps. Once, I corrected this issue my application ran fine.
 
 ### Open-source libraries used
 
